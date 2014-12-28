@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: M. César Señoranis
+  description: 
+  company: Humanzilla (http://humanzilla.com/)
+  license: MIT
+  min_ansible_version: 1.2
+  
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+
+  categories:
+    - cloud
+    - web
+
+dependencies: []
